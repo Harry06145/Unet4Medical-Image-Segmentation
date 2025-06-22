@@ -13,5 +13,7 @@ This is a test project using Unet to segment medical imaging for a freshman.
   torchsummary==1.5.1
   torchvision==0.21.0+cu126
   ```
-## run
+## Run
   `python main.py`
+## Dataset
+  [Kaggle Lung Vessel Sefmentation](https://www.kaggle.com/datasets/andrewmvd/lung-vessel-segmentation/data)
